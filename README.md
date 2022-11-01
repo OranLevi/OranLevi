@@ -22,4 +22,4 @@
 - [<a href="https://github.com/OranLevi/megaGenerator">mega Generator</a>] - An application for generator password, names and numbers <br>
 <br>
 <h4> And more projects that are published on my Github and more apps in development at the moment! </h4>
-<hr>
+
