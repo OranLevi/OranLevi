@@ -21,7 +21,7 @@
 - [<a href="https://github.com/OranLevi/PlaySoccer">LFMovieApp</a>] - An application game app for Play Soccer, when balls are created on the screen and there is a time limit to insert them into the goal.<br>
 - [<a href="https://github.com/OranLevi/mega-Genrot">MegaGenrot</a>] - An application for generator password, names and numbers <br>
 - [<a href="https://github.com/OranLevi/WordRevertor">WordRevertor</a>] - An application for Converting text from English Keyboard to Hebrew Keyboard and revers.<br>
-- [<a href="https://github.com/OranLevi/Pcaller">Pcaller</a>] - An application for allowing you to dial privately and hide your number. The application is used as a call dialer and the user has the option of dialing normally or hidden number. <br>
+- [<a href="https://github.com/OranLevi/Pcaller">Pcaller</a>] - An application for allowing you to dial privately and hide your number. The application is used as a call dialer and the user has the option of dialing normally or hidden number, The application can save call history at the request of the user.<br>
 
 <br>
 <h4> And more projects that are published on my Github and more apps in development at the moment! </h4>
