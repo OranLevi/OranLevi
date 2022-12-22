@@ -18,7 +18,7 @@
 - [<a href="https://github.com/OranLevi/LFMovie-App">LFMovieApp</a>] - An application for TV shows and movies discovery from many category top rated, upcoming, Trending and Popular. <br>
 - [<a href="https://github.com/OranLevi/RadarApp">Radar</a>] - An application for Flight timetable of Ben Gurion Airport, including the option to search and track a flight, receive information about Israeli embassies around the world and Foreign missions in Israel, travel warnings to dangerous destinations including COVID data and the option to create tasks. <br>
 - [<a href="https://github.com/OranLevi/Clipstar">Clipstar</a>] - An application for discovering short videos until 60 seconds, the app showing funny or entertaining videos. <br>
-- [<a href="https://github.com/OranLevi/PlaySoccer">LFMovieApp</a>] - An application game app for Play Soccer, when balls are created on the screen and there is a time limit to insert them into the goal.<br>
+- [<a href="https://github.com/OranLevi/PlaySoccer">PlaySoccer</a>] - An application game app for Play Soccer, when balls are created on the screen and there is a time limit to insert them into the goal.<br>
 - [<a href="https://github.com/OranLevi/mega-Genrot">MegaGenrot</a>] - An application for generator password, names and numbers <br>
 - [<a href="https://github.com/OranLevi/WordRevertor">WordRevertor</a>] - An application for Converting text from English Keyboard to Hebrew Keyboard and revers.<br>
 - [<a href="https://github.com/OranLevi/Pcaller">Pcaller</a>] - An application for allowing you to dial privately and hide your number. The application is used as a call dialer and the user has the option of dialing normally or hidden number, The application can save call history at the request of the user.<br>
