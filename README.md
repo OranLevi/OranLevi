@@ -30,12 +30,14 @@ You can find more of my iOS projects on my GitHub profile.
 ## 💻 Web Projects
 Here are some of my recent web projects:
 
-[**Currency converter**](https://github.com/OranLevi/currency-converter):
-Currency converter web app with up-to-date exchange rates.
-
-
 [**Cinema**](https://github.com/OranLevi/Cinema):
 Explore the world of movies and TV shows with this web app! Discover top-rated titles by category, and read reviews and ratings from fellow fans.
+
+[**FlyBoard**](https://github.com/OranLevi/FlyBoard):
+This web application is designed to help users stay informed about flight schedules, travel restrictions, and warnings related to destinations around the world. By using up-to-date data from reliable sources.
+
+[**Currency converter**](https://github.com/OranLevi/currency-converter):
+Currency converter web app with up-to-date exchange rates.
 
 You can find more of my Web projects on my GitHub profile.
 
