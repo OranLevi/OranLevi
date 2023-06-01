@@ -19,12 +19,11 @@ Feel free to browse my GitHub repositories to see some of my recent projects. If
 ## 📱 iOS Projects
 Here are some of my recent iOS projects:
 
-[**LFMovieApp**](https://github.com/OranLevi/LFMovie-App): Discover top rated TV shows and movies with ease! Our app features categories such as upcoming, trending, and popular for your viewing pleasure.
+[**MovieMagic**](https://github.com/OranLevi/MovieMagic): An iOS app utilizing SwiftUI, Combine, and MVVM architecture, empowering users to explore and access movie information through the MovieDB API.
+
+[**Coinblock**](https://github.com/OranLevi/coinblock): Track and monitor cryptocurrency prices, portfolios, and market trends with ease. Stay updated, view detailed coin information, and effortlessly manage your investments in one convenient mobile app.
 
 [**Rader**](https://github.com/OranLevi/RadarApp): Flight timetable & tracking of Ben Gurion Airport, Israeli embassies worldwide, travel warnings.
-
-[**Pcaller**](https://github.com/OranLevi/Pcaller)
-: Make private calls with our app. Use it as a call dialer to choose between a normal or hidden number, and save call history with Advanced features available
 
 You can find more of my iOS projects on my GitHub profile.
 
