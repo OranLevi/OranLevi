@@ -8,7 +8,8 @@ Feel free to browse my GitHub repositories to see some of my recent projects. If
 
 ## 🛠 Skills
 
-- **Languages:** JavaScript, HTML, CSS, Swift, SwiftUI
+- **Languages:** JavaScript, HTML, CSS, Swift
+- **Frameworks and Libraries:** UIKit, SwiftUI, Combine, MVVM
 - **CSS Frameworks:** Bootstrap, Tailwind CSS
 - **Backend Development:** Node.js, Express, MongoDB, Nodemon
 - **Frontend Development:** React, Next.js, jQuery, EJS
