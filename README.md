@@ -23,10 +23,6 @@ Here are some of my recent iOS projects:
 
 [**Coinblock**](https://github.com/OranLevi/coinblock): Track and monitor cryptocurrency prices, portfolios, and market trends with ease. Stay updated, view detailed coin information, and effortlessly manage your investments in one convenient mobile app.
 
-[**Rader**](https://github.com/OranLevi/RadarApp): Flight timetable & tracking of Ben Gurion Airport, Israeli embassies worldwide, travel warnings.
-
-You can find more of my iOS projects on my GitHub profile.
-
 ## 💻 Web Projects
 Here are some of my recent web projects:
 
