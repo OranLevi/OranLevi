@@ -21,6 +21,9 @@ Here are some of my recent iOS projects:
 
 [**MovieMagic**](https://github.com/OranLevi/MovieMagic): An iOS app utilizing SwiftUI, Combine, and MVVM architecture, empowering users to explore and access movie information through the MovieDB API.
 
+[**iCliper**](https://github.com/OranLevi/iCliper): 
+An iOS app  to clipboard management app for iOS. it empowers to effortlessly copy, paste, and manage your clipboard history.
+
 [**Coinblock**](https://github.com/OranLevi/coinblock): Track and monitor cryptocurrency prices, portfolios, and market trends with ease. Stay updated, view detailed coin information, and effortlessly manage your investments in one convenient mobile app.
 
 ## 💻 Web Projects
