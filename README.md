@@ -13,7 +13,7 @@ Feel free to browse my GitHub repositories to see some of my recent projects. If
 - **CSS Frameworks:** Bootstrap, Tailwind CSS
 - **Backend Development:** Node.js, Express, MongoDB, Nodemon
 - **Frontend Development:** React, Next.js, jQuery, EJS
-- **Mobile Development:** iOS, Swift, SwiftUI, UIKit, Core Data
+- **Mobile Development:** iOS, Swift, SwiftUI, UIKit, Core Data, SwiftData
 - **Other Tools and Technologies:** VScode, Xcode, GitHub, Firebase, Netlify, Mongoose, Axios
 
 ## 📱 iOS Projects
