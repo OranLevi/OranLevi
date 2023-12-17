@@ -26,8 +26,6 @@ An iOS app  to clipboard management app for iOS. it empowers to effortlessly cop
 
 [**Coinblock**](https://github.com/OranLevi/coinblock): Track and monitor cryptocurrency prices, portfolios, and market trends with ease. Stay updated, view detailed coin information, and effortlessly manage your investments in one convenient mobile app.
 
-You can find more of my Web projects on my GitHub profile.
-
 ## 💬 Get in Touch
 If you have any questions or would like to collaborate on a project, feel free to reach out to me. You can find my contact information on my portfolio website or LinkedIn.
 
