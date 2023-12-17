@@ -26,18 +26,6 @@ An iOS app  to clipboard management app for iOS. it empowers to effortlessly cop
 
 [**Coinblock**](https://github.com/OranLevi/coinblock): Track and monitor cryptocurrency prices, portfolios, and market trends with ease. Stay updated, view detailed coin information, and effortlessly manage your investments in one convenient mobile app.
 
-## 💻 Web Projects
-Here are some of my recent web projects:
-
-[**Cinema**](https://github.com/OranLevi/Cinema):
-Explore the world of movies and TV shows with this web app! Discover top-rated titles by category, and read reviews and ratings from fellow fans.
-
-[**FlyBoard**](https://github.com/OranLevi/FlyBoard):
-This web application is designed to help users stay informed about flight schedules, travel restrictions, and warnings related to destinations around the world. By using up-to-date data from reliable sources.
-
-[**Currency converter**](https://github.com/OranLevi/currency-converter):
-Currency converter web app with up-to-date exchange rates.
-
 You can find more of my Web projects on my GitHub profile.
 
 ## 💬 Get in Touch
