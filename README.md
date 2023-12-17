@@ -3,8 +3,7 @@
 ## 🚀 About Me
 Hello! My name is Oran Levi and I'm a iOS Developer & Full Stack Developer. In my free time, I enjoy working on personal projects and experimenting with new technologies.
 
-Feel free to browse my GitHub repositories to see some of my recent projects. If you have any questions or would like to collaborate, please don't hesitate to contact me through my protfoli website or LinkedIn profile. I look forward to hearing from you!
-
+Feel free to browse my GitHub repositories to see some of my recent projects. If you have any questions or would like to collaborate, please don't hesitate to contact me through [my portfolio website](https://oranlevi.dev) or [LinkedIn profile](http://linkedin.com/in/oranlevi). I look forward to hearing from you!
 
 ## 🛠 Skills
 
