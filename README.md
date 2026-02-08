@@ -19,7 +19,7 @@ Here are some of my recent iOS projects:
 
 More project are available on the [App Store](https://apps.apple.com/us/developer/oran-levi/id1653309601).
 ## 💬 Get in Touch
-If you have any questions or would like to collaborate on a project, feel free to reach out to me. You can find my contact information on my portfolio website or LinkedIn.
+If you have any questions or would like to collaborate on a project, feel free to reach out to me. You can find my contact information on LinkedIn.
 
 Thank you for considering my profile!
 
