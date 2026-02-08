@@ -5,7 +5,7 @@ Hello! I'm Oran Levi, an iOS Developer. I enjoy building meaningful applications
 
 Feel free to browse my GitHub repositories to see some of my recent projects. Note that while I showcase some projects here, others are available on the App Store.
 
-If you have any questions or would like to collaborate, please don't hesitate to contact me through [my portfolio website](https://oranlevi.dev) or [LinkedIn profile](http://linkedin.com/in/oranlevi). 
+If you have any questions or would like to collaborate, please don't hesitate to contact me through [LinkedIn profile](http://linkedin.com/in/oranlevi). 
 
 I look forward to hearing from you!
 
